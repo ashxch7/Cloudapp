@@ -1,2 +1,2 @@
 FROM httpd:2.4
-COPY ./Webapp/ /usr/local/apache2/htdocs/
+COPY ./webapp/ /usr/local/apache2/htdocs/
